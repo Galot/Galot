@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galo
 - 👀 I’m interested in microcontroller systems
-- 🌱 I’m currently learning c and Java.
+- 🌱 I’m currently learning c  and Java.
 - 💞️ I’m looking to collaborate on electronic hardware systems 
 - 📫 How to reach me: gabriel.cavallotti@gmail.com
 
